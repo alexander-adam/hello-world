@@ -1,3 +1,3 @@
 # hello-world
-Just my the very first GitHub repository.
+So what?
 I'll try to change and commit it...
